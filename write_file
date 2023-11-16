@@ -1,0 +1,21 @@
+[
+    {
+        "id": "e6f11c3f07151377",
+        "type": "file",
+        "z": "4d9476b442a3a4a9",
+        "name": "",
+        "filename": "zaki2.txt",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 560,
+        "y": 240,
+        "wires": [
+            [
+                "c8e1ec7895be72bb"
+            ]
+        ]
+    }
+]
